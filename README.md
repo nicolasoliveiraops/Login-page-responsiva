@@ -1,25 +1,34 @@
-# **Login page**
+# Responsive Login Page
 
-Projeto feito em uma vídeo-aula, para o desenvolvimento de uma página de Login.
+> **Learning project — course/tutorial exercise.** Kept public as part of my front-end learning history; not professional client work.
 
-## **Para acessar o site, [*clique aqui*](https://thedevnicolas.github.io/Login-page-responsiva/)**
+A learning project built by following a video tutorial to practice a responsive login page with HTML and CSS.
 
-### Execução
-O intuito do projeto foi criar uma página de Login responsiva.
+This is a front-end layout exercise. It does not implement authentication or a backend.
 
-### **Habilidades praticadas** 
-- Estrutura HTML, utilização de *label, inputs*;
-- Estilização com CSS, utilizando *FlexBox*;
-- Etilização com CSS, utilizando *SVG animado*;
-- Responsividade, utilizando *MediaQuery.*
+## Skills practiced
 
-## **Previews**:
+- HTML forms, labels, and inputs
+- CSS styling and Flexbox
+- Using an animated SVG illustration
+- Responsive layouts with media queries
 
-### **Monitor**
+## View the project
 
-![web](https://user-images.githubusercontent.com/110689312/192367544-22a815b3-2b46-4d2c-af98-c68d8d1b59dc.jpg)
+[GitHub Pages demo](https://nicolasoliveiraops.github.io/Login-page-responsiva/)
 
-### **Mobile**
+## Run locally
 
-![mobile](https://user-images.githubusercontent.com/110689312/192367560-0bc33c6a-6777-4c2a-b6d0-2bee69511008.jpg)
+Clone or download this repository and open `index.html` in a browser. No build step is required.
 
+## Previews
+
+These screenshots show the original learning project.
+
+### Desktop preview
+
+![Desktop preview](https://user-images.githubusercontent.com/110689312/192367544-22a815b3-2b46-4d2c-af98-c68d8d1b59dc.jpg)
+
+### Mobile preview
+
+![Mobile preview](https://user-images.githubusercontent.com/110689312/192367560-0bc33c6a-6777-4c2a-b6d0-2bee69511008.jpg)
