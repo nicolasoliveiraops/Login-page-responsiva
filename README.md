@@ -1,6 +1,6 @@
 # Responsive Login Page
 
-> **Learning project - course/tutorial exercise.** Kept public as part of my front-end learning history; not professional client work.
+This project is from my earlier HTML and CSS studies, following a video tutorial. It's a tutorial exercise, kept here as part of my learning history.
 
 A learning project built by following a video tutorial to practice a responsive login page with HTML and CSS.
 
